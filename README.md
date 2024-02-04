@@ -22,5 +22,5 @@ This is a Python script for managing student grades stored in a Google Sheets do
 Place your credentials.json file containing your Google Sheets API credentials in the root directory of the project.
 
 ## Execute the script:
- - python main.py
-The script will fetch student data from the specified Google Sheets document, calculate average grades, determine student status, update the spreadsheet with the results, and print the updated student data.
+ - run python main.py
+ - The script will fetch student data from the specified Google Sheets document, calculate average grades, determine student status, update the spreadsheet with the results, and print the updated student data.
