@@ -2,6 +2,9 @@
 ## Overview
 This is a Python script for managing student grades stored in a Google Sheets document. It fetches student data from a Google Sheets spreadsheet, calculates the average grades, determines the students' status (e.g., pass, fail, retest), and updates the spreadsheet accordingly.
 
+### google sheets' copy
+https://docs.google.com/spreadsheets/d/1p_vrq4Pmi1JhqtZ-oLYCrZfazxtf5czdjmEzWqVVkVg/edit?usp=sharing
+
 ## Prerequisites
  - gspread library (pip install gspread)
  -  pandas library (pip install pandas)
