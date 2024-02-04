@@ -14,7 +14,7 @@ This is a Python script for managing student grades stored in a Google Sheets do
     
 ## Obtain Google Sheets API credentials:
   - Create a project in the Google Developers Console.
-  - Enable the Google Sheets API for the project.
+  - Enable the Google Sheets and Google Drive APIs for the project.
   - Create credentials for a service account and download the JSON file containing your credentials.
   - Share your Google Sheets document with the email address associated with the service account.
 
